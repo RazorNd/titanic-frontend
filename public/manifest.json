@@ -1,0 +1,15 @@
+{
+  "short_name": "Titanic Survived",
+  "name": "Titanic Survived App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#dbd6be",
+  "background_color": "#051222"
+}
